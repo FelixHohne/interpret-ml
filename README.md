@@ -2,6 +2,8 @@
 
 This project for Cornell Data Science implements Generalized Linear Models and Generalized Additive Models. 
 
+The main slides for the project can be found [here](https://github.com/FelixHohne/interpret-ml/blob/master/InterpretML%20Final%20Presentation.pdf). 
+
 Our three key datasets are: 
 1. twitter_analysis.csv
 2. civil_wars.RData
